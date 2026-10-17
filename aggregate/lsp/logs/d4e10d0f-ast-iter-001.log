@@ -1,0 +1,7 @@
+[2026-10-17T16:09:08Z] === AST ITERATION 1 START | repo=facebookresearch/fairchem sha=d4e10d0f ===
+[2026-10-17T16:09:08Z] [iter=1] PHASE START: ast repo=facebookresearch/fairchem sha=d4e10d0f
+[2026-10-17T16:09:08Z] [iter=1] Building AST aggregate chunks
+[2026-10-17T16:12:57Z] [iter=1] AST chunks built count=1 triples=1960012
+[2026-10-17T16:12:57Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/d4e10d0f4e87593922fda1d1ffb7dd28e504cadd/.complete
+[2026-10-17T16:12:57Z] [iter=1] PHASE END: ast elapsed_s=229 elapsed_min=3.8
+[2026-10-17T16:12:57Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
