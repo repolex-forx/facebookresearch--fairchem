@@ -1,0 +1,8 @@
+{
+  "next_action": "parse",
+  "phase_completed": "parse_partial",
+  "commit_sha": "d4e10d0f4e87593922fda1d1ffb7dd28e504cadd",
+  "ts": "2026-10-17T16:07:55Z",
+  "blobs_parsed": 500,
+  "blobs_remaining": 401
+}
